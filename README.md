@@ -3,7 +3,7 @@
 
 
 ## Setup
-* Available on NuGet: [https://www.nuget.org/packages/AspNetCore.Authentication.Plugin/](https://www.nuget.org/packages/AspNetCore.Authentication.Plugin/)
+* Available on NuGet: https://www.nuget.org/packages/AspNetCore.ImageUploader/
 * Install into your .NET Core project.
 
 ## Usage
